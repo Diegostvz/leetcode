@@ -9,3 +9,6 @@ __pycache__/
 .vscode/
 Thumbs.db
 desktop.ini
+
+# Archivo de pruebas rapidas
+prueba.ipynb
