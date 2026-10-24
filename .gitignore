@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales (por si algún día creas uno)
+.venv/
+
+# Editor y sistema
+.vscode/
+Thumbs.db
+desktop.ini
