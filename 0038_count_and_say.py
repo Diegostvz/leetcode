@@ -33,7 +33,7 @@ Approach 1 - Recursion + run-length encoding
         - The last group must be written after the loop.
         - count starts at 1: the first digit already counts.
         - Build with a list + "".join(): str += creates a new string
-          every time.
+          every time..
 """
 
 
